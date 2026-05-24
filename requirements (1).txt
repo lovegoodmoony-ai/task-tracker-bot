@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+anthropic==0.18.1
+SpeechRecognition==3.10.1
+pydub==0.25.1
+pytz==2024.1
